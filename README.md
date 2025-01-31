@@ -1,6 +1,6 @@
 # site2
 <html>
-
+<title>Школа бойових мистецтв</title>
 <header style="background-color:black">
     <img src="https://lms.logikaschool.com/uploads/2020/10/boxing-1293088_640_0_1602494675.png" height="50px"/>
     <a href="https://uk.wikipedia.org/wiki/Бойові_мистецтва" style="color:white">Історія</a>
